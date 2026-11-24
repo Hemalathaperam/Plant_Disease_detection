@@ -1,18 +1,9 @@
-# 🌟Make Sure You Read all Instructions :
+# 🌟Model Architecture :
+<center><img src ="model.JPG"></center>
 
-##### This code is fully funcional web app which is already deployed in heroku cloud server
+## 🌟NOTE :-
+* If pdf or ipython notebook will not load then please check markdown filde (.md)
+* Download the `plant_disease_model_1_latest.pt` file from [Here](https://drive.google.com/drive/folders/1ewJWAiduGuld_9oGSrTuLumg9y62qS6A?usp=share_link)
 
-##### You have install requirements.txt for run this code in your pc
-
-##### For heroku we also have to create on Procfile
-
-##### Your "plant_disease_model_1_latest.pt" should be in this folder. You have to trained that model in your pc/laptop and drag it to this folder
-
-##### First check the Model section of this Repo. After that you can understand deployed app.
-
-##### Make sure if you change the model name then also change the name of the model argument in the app.py
-
-
-# ⭐Requirements 
-#### You have to Installed all the requirments. Save all the below requirements in requirements.txt
-#### Run this line in cmd/shell :  pip install -r requirements.txt
+## 🌟Blog Link ( Dataset link is in blog ):
+<a href="https://medium.com/analytics-vidhya/plant-disease-detection-using-convolutional-neural-networks-and-pytorch-87c00c54c88f" target="_blank">Plant Disease Detection using Convolutional Neural Network with PyTorch Implementation</a>
